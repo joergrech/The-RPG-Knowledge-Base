@@ -1,5 +1,5 @@
 # Procedural Side-Quests
-This is a classification of procedural quests (also known as missions, tasks, or orders) in video game RPGs. The goal is to collect **setting-neutral** concepts that game designers can use when developing quests for open-world RPGs.
+This is a classification of procedural quests (also known as missions, tasks, contracts, assignments, or orders) in video game RPGs. The goal is to collect **setting-neutral** concepts that game designers can use when developing quests for open-world RPGs.
 ## Introduction
 The quests are described with the intended goal in mind—what the player character (PC) needs to accomplish—rather than prescribing how the goal must be achieved. This gives the PC the flexibility to complete the quest in whatever way they choose. For example, if the quest giver needs an antidote, the PC is free to gather, buy, steal, rob, manufacture, or grow it as they see fit (subject to constraints and consequences).
 

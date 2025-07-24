@@ -1,8 +1,8 @@
 # Acquisition quests
 #sidequest
-Acquisition Quests (a.k.a. Fetch Quests or Procurement Missions) involve commissioning the player character (PC) to acquire, procure, fetch, or otherwise obtain something by any means necessary. These quests typically require the PC to find and collect specific items, often navigating challenges such as exploring uncharted areas, negotiating with current owners, stealing, fighting, or crafting in order to secure the desired objective. The primary goal is to complete the acquisition successfully, often demanding resourcefulness, determination, and occasionally morally ambiguous choices.
+Acquisition Quests (a.k.a. Fetch Quests, Extraction Missions, or Procurement Contracts) involve commissioning the player character (PC) to acquire, procure, fetch, or otherwise obtain something by any means necessary. These quests typically require the PC to find and collect specific items, often navigating challenges such as exploring uncharted areas, negotiating with current owners, stealing, fighting, or crafting in order to secure the desired objective. The primary goal is to complete the acquisition successfully, often demanding resourcefulness, determination, and occasionally morally ambiguous choices.
 ## Characteristics
-* **Main Goal**: (goal:: Bring Items I to location L)
+* **Main Goal**: (goal:: Bring items I to location L)
 * **Main Solutions**:
 	* (solution:: Gather) Items (Flora, Fauna, Minerals, Data, …)
 	* (solution:: Steal) Items from somewhere or someone (Pickpocket, Rob, ...)
